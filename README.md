@@ -9,7 +9,7 @@
 ### Download and install
 
 ``` bash
-$ go get -u github.com/go-oauth2/gin-server
+$ go get -u github.com/jotagesales/gin-server
 ```
 
 ### Create file `server.go`
